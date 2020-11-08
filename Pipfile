@@ -19,6 +19,7 @@ lxml = "*"
 seaborn = "*"
 pandas-datareader = "*"
 statsmodels = "*"
+kaggle = "*"
 
 [requires]
 python_version = "3.7"
